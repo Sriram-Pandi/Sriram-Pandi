@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pandi.s@northeastern.edu**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1C0_3mTYTjJY9_ojunRHjTdm99SjeQ6HZ/view?usp=sharing)
+- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/1C0_3mTYTjJY9_ojunRHjTdm99SjeQ6HZ/view?usp=sharing](https://1drv.ms/b/s!AkPK2YWkSScgsn4JYqRWdE7walrl?e=S9Rmvr))
 
 - ⚡ Fun fact **Manipulators don't Manipulate 🫥 (Back story: My Undergrad Prof asked how does manipulator manipulate anyone?)**
 
