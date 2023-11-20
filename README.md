@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [My Resume](https://1drv.ms/b/s!AkPK2YWkSScgsn4JYqRWdE7walrl?e=S9Rmvr)
 
-- ⚡ Fun fact **Manipulators don't Manipulate 🫥 (Back story: My Undergrad Prof asked how does manipulator manipulate anyone?)**
+- ⚡ Fun fact **Manipulators don't Manipulate anyone 🫥 (Back story: My Undergrad Prof asked how does manipulator manipulate anyone?)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
