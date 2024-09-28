@@ -4,9 +4,9 @@
 
 
 
-- 🌱 I’m currently looking for Full-time opportunities to serve organisations in the field of Robotics and its associated streams
+- 🌱 I’m currently looking for opportunities to serve full time at various levels in the field of Robotics and associated streams
 
-- 👨‍💻 All of my projects are available at [Portfolio under progress]
+- 👨‍💻 All of my projects are available at [Portfolio under progress]()
 
 - 💬 Ask me about **Robotics, Computer vision**
 
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1BMTqG5uKhFBK6mQD6mm8lLKMQuLh0VP1/view?usp=drive_link)
 
-- ⚡ Fun fact **Manipulators don't Manipulate anyone 🫥 (why did i say that? ------> My Undergrad Prof asked "Does a manipulator manipulate anyone?" during my project presentation)**
+- ⚡ Fun fact **Manipulators don't Manipulate anyone 🫥 (why did i say that? ------> My Undergrad Prof asked "Does a manipulator manipulate anyone?" during my project presentation🤷‍♂️)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
