@@ -15,37 +15,67 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 Projects
 
-🔧 Robotics graduate from Northeastern University, passionate about building intelligent systems that solve real-world problems.  
-💡 Interests: Robotics | XR | Computer Vision | Embedded Systems | Machine Learning  
-🎯 Currently focused on expanding my portfolio with real-time systems and perception projects.
+### 🤖 Robotics & ROS
 
----
+- **ROS Navigation Bot**  
+  Developed an autonomous robot using ROS for mapping, path planning, and navigation.
 
-### 🧠 Skills
+- **Robot Arm Controller**  
+  Implemented a ROS-based controller for a 6-DOF robotic arm, enabling precise movements and task automation.
 
-- 🛠️ **Languages**: Python, C++, C
-- 🤖 **Frameworks**: ROS, OpenCV, TensorFlow, PyTorch
-- 💻 **Tools**: Git, Docker, Unity, RViz, Gazebo, Arduino
-- 🌐 **Other**: Embedded Systems, XR, ML, Simulation
+- **Sensor Integration Pipeline**  
+  Synchronized multiple sensors for perception tasks using ROS, enhancing data accuracy and system reliability.
 
 ---
 
-### 📂 Featured Projects
+### 🧠 Machine Learning / Computer Vision
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **[XR AR Darts Game](#)** | AR darts game using Unity and Meta Quest. Implemented physics-based interactions. | Unity, C#, AR Foundation |
-| **[ROS Navigation Bot](#)** | Developed autonomous robot using ROS for mapping, path planning, and navigation. | ROS, Python, Gazebo |
-| **[Object Detection Pipeline](#)** | Built a computer vision model to detect and track objects in real-time. | OpenCV, TensorFlow |
-| **[IoT Water Quality Monitor](#)** | Smart water monitoring system using Raspberry Pi and sensors. | Python, IoT, Sensors |
+- **Object Detection Model**  
+  Built a computer vision model to detect and track objects in real-time using TensorFlow.
 
-> *(Will update with real links and projects once your GitHub is accessible.)*
+- **Synthetic Data Generation**  
+  Utilized Unity and Blender to create datasets for training perception models, improving model robustness.
+
+- **Face/Emotion Recognition Projects**  
+  Developed image classification models using CNNs for facial and emotional recognition tasks.
 
 ---
 
-### 📈 GitHub Stats
+### 🎮 XR / Unity Development
+
+- **AR Darts Game (Meta Quest)**  
+  Created an augmented reality darts game using Unity and AR Foundation, integrating real-time physics and user interaction.
+
+- **VR House Designer**  
+  Developed a virtual reality application to spawn, resize, color, and interact with objects in a virtual environment.
+
+- **Beat Saber Clone (Level 1 Arena)**  
+  Built a music-based VR game with punch mechanics and obstacles, inspired by Beat Saber.
+
+---
+
+### 🔧 Embedded Systems / IoT
+
+- **IoT Water Quality Monitor**  
+  Designed a smart water monitoring system using Raspberry Pi and sensors to measure turbidity, pH, and TDS levels.
+
+- **Eco-Friendly Portable Refrigerator**  
+  Engineered a portable cooling system using Peltier modules, focusing on energy efficiency and sustainability.
+
+---
+
+## 🛠️ Skills
+
+- **Languages**: C++, Python, C  
+- **Frameworks**: ROS, OpenCV, TensorFlow, PyTorch  
+- **Tools**: Git, Docker, Unity, RViz, Gazebo, Arduino  
+- **Areas of Interest**: Robotics, Computer Vision, AI Applications, Embedded Systems, XR Development
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sriram-Pandi&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -54,13 +84,12 @@
 
 ---
 
-### 📫 Reach Out
+## 📫 Contact Me
 
-📩 **Email**: [pandi.s@northeastern.edu](mailto:pandi.s@northeastern.edu)  
-🔗 **LinkedIn**: [linkedin.com/in/sriram-pandi](https://linkedin.com/in/sriram-pandi)  
-📸 **Instagram**: [@sriram_kanna_](https://www.instagram.com/sriram_kanna_)
+- 📩 **Email**: [pandi.s@northeastern.edu](mailto:pandi.s@northeastern.edu)  
+- 🔗 **LinkedIn**: [linkedin.com/in/sriram-pandi](https://www.linkedin.com/in/sriram-pandi)  
+- 📸 **Instagram**: [@sriram_kanna_](https://www.instagram.com/sriram_kanna_)
 
 ---
 
 > ⚡ *Let’s build things that matter.*
-
