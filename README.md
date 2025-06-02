@@ -1,26 +1,66 @@
-<h1 align="center">Hi 👋, I'm Sriram Pandi /'sriræm pændi'/</h1>
-<h3 align="center">Robotics Graduate Student @ Northeastern University, Boston.</h3>
-<img align="right" alt="Coding" width="400" src="https://assets.rbl.ms/49273590/origin.gif">
+<h1 align="center">Hi 👋, I'm Sriram Pandi</h1>
+<h3 align="center">Robotics Engineer | Embedded Systems | XR Developer</h3>
 
-
-
-- 🌱 I’m currently looking for opportunities to serve full time at various levels in the field of Robotics and associated streams
-
-- 👨‍💻 All of my projects are available at [Portfolio under progress]()
-
-- 💬 Ask me about **Robotics, Computer vision**
-
-- 📫 How to reach me **pandi.s@northeastern.edu**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1BMTqG5uKhFBK6mQD6mm8lLKMQuLh0VP1/view?usp=drive_link)
-
-- ⚡ Fun fact **Manipulators don't Manipulate minds 🫥 (why did i say that? ------> My Undergrad Prof during my final project presentation asked "Does a manipulator manipulate anyone?"🤷‍♂️)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sriram-pandi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sriram-pandi/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sriram_kanna_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sriram_kanna_/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sriram-pandi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:pandi.s@northeastern.edu">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://github.com/Sriram-Pandi">
+    <img src="https://img.shields.io/github/followers/Sriram-Pandi?label=Follow&style=social" alt="GitHub">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 About Me
+
+🔧 Robotics graduate from Northeastern University, passionate about building intelligent systems that solve real-world problems.  
+💡 Interests: Robotics | XR | Computer Vision | Embedded Systems | Machine Learning  
+🎯 Currently focused on expanding my portfolio with real-time systems and perception projects.
+
+---
+
+### 🧠 Skills
+
+- 🛠️ **Languages**: Python, C++, C
+- 🤖 **Frameworks**: ROS, OpenCV, TensorFlow, PyTorch
+- 💻 **Tools**: Git, Docker, Unity, RViz, Gazebo, Arduino
+- 🌐 **Other**: Embedded Systems, XR, ML, Simulation
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **[XR AR Darts Game](#)** | AR darts game using Unity and Meta Quest. Implemented physics-based interactions. | Unity, C#, AR Foundation |
+| **[ROS Navigation Bot](#)** | Developed autonomous robot using ROS for mapping, path planning, and navigation. | ROS, Python, Gazebo |
+| **[Object Detection Pipeline](#)** | Built a computer vision model to detect and track objects in real-time. | OpenCV, TensorFlow |
+| **[IoT Water Quality Monitor](#)** | Smart water monitoring system using Raspberry Pi and sensors. | Python, IoT, Sensors |
+
+> *(Will update with real links and projects once your GitHub is accessible.)*
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sriram-Pandi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriram-Pandi&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Reach Out
+
+📩 **Email**: [pandi.s@northeastern.edu](mailto:pandi.s@northeastern.edu)  
+🔗 **LinkedIn**: [linkedin.com/in/sriram-pandi](https://linkedin.com/in/sriram-pandi)  
+📸 **Instagram**: [@sriram_kanna_](https://www.instagram.com/sriram_kanna_)
+
+---
+
+> ⚡ *Let’s build things that matter.*
+
