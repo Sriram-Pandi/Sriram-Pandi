@@ -286,46 +286,88 @@ Revolutionary XR application for immersive home design and construction visualiz
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🌟 **Portfolio Highlights**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sriram-Pandi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-Pandi&layout=compact&langs_count=8&theme=tokyonight"/>
+### **📊 Technical Achievements**
+**23 Public Repositories** • **Cross-Disciplinary Expertise** • **Real-World Applications**
 
 </div>
 
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Projects-23-2ea44f?style=for-the-badge" alt="Projects"/>
+<br><b>Active Projects</b>
+<br>Diverse portfolio spanning multiple domains
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Focus_Areas-4-blue?style=for-the-badge" alt="Focus Areas"/>
+<br><b>Core Expertise</b>
+<br>Robotics • AI/ML • XR • IoT
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Impact-High-orange?style=for-the-badge" alt="Impact"/>
+<br><b>Real-World Impact</b>
+<br>Solutions addressing practical challenges
+</td>
+</tr>
+</table>
+
+---
+
+## 💪 **Technical Expertise Levels**
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sriram-Pandi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sriram-Pandi&theme=tokyo-night&hide_border=true&area=true)
+| Domain | Proficiency | Technologies |
+|--------|-------------|--------------|
+| 🤖 **Robotics & ROS** | ████████████████████ **95%** | ROS, Navigation, SLAM, Control Systems |
+| 🧠 **Computer Vision** | ██████████████████░░ **90%** | OpenCV, Deep Learning, Image Processing |
+| 🎮 **XR Development** | ████████████████░░░░ **85%** | Unity, AR Foundation, VR SDKs |
+| 🔧 **Embedded Systems** | ██████████████░░░░░░ **80%** | Arduino, Raspberry Pi, IoT Sensors |
+| 📊 **Data Science** | ██████████████░░░░░░ **80%** | Python, TensorFlow, PyTorch, Analytics |
 
 </div>
 
 ---
 
-## 🏆 **GitHub Trophies**
+## 📈 **Professional Journey**
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sriram-Pandi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+```mermaid
+timeline
+    title Technical Evolution
+    2021 : Foundation Building
+         : Programming Languages (Python, C++)
+         : Basic Robotics Concepts
+    2022 : Core Skills Development  
+         : ROS Mastery
+         : Computer Vision Projects
+         : IoT System Design
+    2023 : Advanced Applications
+         : AI/ML Implementation
+         : XR Development
+         : Multi-sensor Integration
+    2024 : Research & Innovation
+         : MS Robotics @ Northeastern
+         : Advanced Autonomous Systems
+         : Real-world Problem Solving
+    2025 : Industry Leadership
+         : Open Source Contributions
+         : Research Publications
+         : Industry Partnerships
+```
 
 </div>
 
----
-
-## 📈 **Contribution Stats**
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Sriram-Pandi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" />
-
-</div>
+### **🎯 Current Status:**
+- **🎓 Education:** MS in Robotics @ Northeastern University
+- **🔬 Research Focus:** Multi-modal sensor fusion for autonomous systems  
+- **💼 Industry Engagement:** Collaborative projects with robotics companies
+- **📚 Knowledge Sharing:** Contributing to open-source robotics frameworks
 
 ---
 
