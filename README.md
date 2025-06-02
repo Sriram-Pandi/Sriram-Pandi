@@ -28,7 +28,7 @@ class SriramPandi:
     def __init__(self):
         self.name = "Sriram Pandi"
         self.role = "Robotics Engineer & AI Researcher"
-        self.location = "Boston, MA"
+        self.location = "Boston <---> California"
         self.education = "Northeastern University"
         
     def current_focus(self):
