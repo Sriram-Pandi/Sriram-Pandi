@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sriram Pandi</h1>
+**<h1 align="center">Hi 👋, I'm Sriram Pandi</h1>
 <h3 align="center">Robotics Engineer | Embedded Systems | XR Developer</h3>
 
 <p align="center">
@@ -93,3 +93,4 @@
 ---
 
 > ⚡ *Let’s build things that matter.*
+**
