@@ -12,3 +12,7 @@ Robotics engineer working across sensor characterization, computer vision, and a
 | [Sensor fusion and dead reckoning](https://github.com/Sriram-Pandi/SensorFusion-DeadReckoning-Sensing-and-Navigation) | Sensor fusion for vehicle dead reckoning. |
 
 [LinkedIn](https://www.linkedin.com/in/sriram-pandi/)
+
+## Project index
+
+For hardware and sensor work, start with [camera-based assistive robotics](https://github.com/Sriram-Pandi/Assistive-Feeding-Robot), [IMU noise analysis](https://github.com/Sriram-Pandi/IMU-Noise-Characterization-using-Allan-Variance-in-ROS), and [GNSS acquisition](https://github.com/Sriram-Pandi/Real-time-GNSS-Data-Acquisition-and-Analysis-using-ROS). For software experiments, see [multiclass segmentation](https://github.com/Sriram-Pandi/Multiclass_Segmentation), [OpenCV filtering](https://github.com/Sriram-Pandi/Real-time_Filtering), and [MNIST/CIFAR classification](https://github.com/Sriram-Pandi/CNN-architecture-Implementation-for-CIFAR-and-MNIST). The linked repositories describe the inputs and setup for each project.
